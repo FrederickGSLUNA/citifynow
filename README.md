@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://citifynow.vercel.app//favicon.svg" height="20px"/> [MINILINK](https://citifynow.vercel.app)
+# <img src="https://citifynow.vercel.app//favicon.svg" height="20px"/> [CitifyNow](https://citifynow.vercel.app)
 
 **A simple link shortener**
 
